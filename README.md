@@ -258,4 +258,4 @@ Thanks to all people who contributed. Especially
 who have contributed significant improvements to swagger-coverage.
 
 ## License
-Swagger coverage is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0)
+Swagger coverage is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0) 
