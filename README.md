@@ -255,7 +255,7 @@ Thanks to all people who contributed. Especially
 * [@TemaMak](https://github.com/TemaMak) 
 * [@Emilio-Pega](https://github.com/Emilio-Pega)
 
-who have contributed significant improvements to swagger-coverage. 
+who have contributed significant improvements to swagger-coverage.
 
 ## License
 Swagger coverage is released under version 2.0 of the [Apache License](http://www.apache.org/licenses/LICENSE-2.0) 
